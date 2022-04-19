@@ -15,6 +15,7 @@ serverName: ServerKUR | Hosting
 serverDescription: Free Game Hosting - Get started now with 1GB RAM, unlimited players, unlimited plugins, 24/7 up, no queues! Support for Minecraft, Discord Bots and more!
 serverIP: Create Server
 useBedrockForOnlineStatus: false
+clientpanel: https://en.serverkur.net
 
 
 # Discord information
