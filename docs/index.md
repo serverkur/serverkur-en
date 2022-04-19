@@ -6,13 +6,13 @@ navname: Home
 cellLinks:
   - cname: Client Panel
     curl: client
-    cimage: media/demo02.jpg
+    cimage: media/client.png
 
   - cname: About Us
     curl: about
-    cimage: media/demo03.jpg
+    cimage: media/about.png
 
   - cname: Game Panel
     curl: panel
-    cimage: media/demo04.jpg
+    cimage: media/pterodactyl.webp
 ---
