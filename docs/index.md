@@ -5,14 +5,14 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: Client Panel
-    curl: map
+    curl: client
     cimage: media/demo02.jpg
 
   - cname: About Us
-    curl: screenshots
+    curl: about
     cimage: media/demo03.jpg
 
   - cname: Game Panel
-    curl: donate
+    curl: panel
     cimage: media/demo04.jpg
 ---
