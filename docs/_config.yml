@@ -29,13 +29,13 @@ discordChannelID: 962288046944960542
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-#   - name: Server Map
-#     url: map
+#   - name: Client Panel
+#     url: client
 #     newtab: true
-#   - name: Screenshots
-#     url: screenshots
-#   - name: About
+#   - name: About Us
 #     url: about
+#   - name: Game Panel
+#     url: panel
 
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
